@@ -328,10 +328,8 @@ interactive_chat()
 ---
 
 ## 👨‍🎓 Authors
-
-**[Team Lead Name]**  
-**[Member 2 Name]**  
-**[Member 3 Name]**  
+  
+**[Veeresh A]**  
 Lovely Professional University
 
 ---
