@@ -342,7 +342,7 @@ Lovely Professional University
 
 ## 📅 Date
 
-**2024 – 2025**
+**2025 – 2026**
 
 ---
 
